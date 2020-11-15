@@ -1,6 +1,6 @@
 # Atuo Reminder
 
-Atuo Reminder tool helps the user by send a notification using AWS SES when their API Keys or password are about to expire. You also can disable their account or deactivate their key if they're older than the age of the AWS IAM Account Password Policy.
+Auto Reminder tool helps the user by send a notification using AWS SES when their API Keys or password are about to expire. You also can disable their account or deactivate their key if they're older than the age of the AWS IAM Account Password Policy.
 
 # Development: Getting Started
 
