@@ -28,3 +28,8 @@ To run the project
 $ go run ./cmd/main.go
 ```
 
+## Contribution
+If you are interested to make the package better please send pull requests or create an issue so that others can fix.
+
+## License
+The **accounting-app** is an open-source software licensed under the [MIT License](LICENSE).
